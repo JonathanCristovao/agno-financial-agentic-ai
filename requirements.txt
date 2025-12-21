@@ -1,0 +1,8 @@
+google-search-results
+agno
+streamlit
+serpapi
+yfinance
+groq
+duckduckgo-search
+tavily-python
