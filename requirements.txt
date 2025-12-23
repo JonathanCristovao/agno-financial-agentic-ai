@@ -3,6 +3,10 @@ agno
 streamlit
 serpapi
 yfinance
-groq
 duckduckgo-search
-tavily-python
+google-genai
+requests
+dotenv
+openai
+seaborn
+pandas
